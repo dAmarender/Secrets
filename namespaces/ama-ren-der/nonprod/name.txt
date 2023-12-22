@@ -1,1 +1,5 @@
-andjnv adsknv amarender adsdnkn awasdcacza
+configfiles{
+    subconfig{
+        myconfig()
+    }
+}
